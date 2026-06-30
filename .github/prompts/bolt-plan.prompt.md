@@ -2,7 +2,7 @@
 description: "Bolt（数時間〜数日の短い作業サイクル）を計画する。Unit of Work から今回のスコープを選び、タスク分解・完了条件・リスクを定義する。スプリント計画・作業計画の起点。"
 name: "Bolt 計画"
 argument-hint: "対象の Unit of Work と今回の目標"
-agent: "plan"
+agent: "Plan"
 ---
 
 # Bolt を計画します
